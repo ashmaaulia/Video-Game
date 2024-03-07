@@ -18,7 +18,7 @@ By using this combination of tools and software, you can start developing a vide
 
 ## Setup Environtment
 
-1. Python <![endif]--> [https://www.python.org/downloads/](https://www.python.org/downloads/)
-2. Opencv <![endif]--> [https://opencv.org/](https://opencv.org/) atau pip install opencv-python
-3. Mediapipe <![endif]--> [https://github.com/google/mediapipe](https://github.com/google/mediapipe) atau pip install mediapipe
-4. Pygame <![endif]--> [https://www.pygame.org/news](https://www.pygame.org/news) atau pip install pygame
+1. Python [https://www.python.org/downloads/](https://www.python.org/downloads/)
+2. Opencv [https://opencv.org/](https://opencv.org/) atau `pip install opencv-python`
+3. Mediapipe [https://github.com/google/mediapipe](https://github.com/google/mediapipe) atau `pip install mediapipe`
+4. Pygame [https://www.pygame.org/news](https://www.pygame.org/news) atau `pip install pygame`
